@@ -6,7 +6,7 @@ public class Ejercicio028 {
 	
 	private double saldo = 1000.0;  // Saldo inicial
 	
-	//COMPLETAR METODO
+	//COMPLETAR ME TODO
 	public void cajeroAutomatico() {
 
 	    Scanner scanner = new Scanner(System.in);
